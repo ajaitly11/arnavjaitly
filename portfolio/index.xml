@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Arnav Jaitly</title>
+    <link>https://ajaitly11.github.io/arnavjaitly/portfolio/</link>
+    <description>Recent content in Portfolios on Arnav Jaitly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Apr 2022 18:19:35 +0600</lastBuildDate><atom:link href="https://ajaitly11.github.io/arnavjaitly/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discrete Event Simulation</title>
+      <link>https://ajaitly11.github.io/arnavjaitly/portfolio/des/</link>
+      <pubDate>Thu, 14 Apr 2022 18:19:35 +0600</pubDate>
+      
+      <guid>https://ajaitly11.github.io/arnavjaitly/portfolio/des/</guid>
+      <description>GitHub link - https://github.com/ajaitly11/Discrete-event-simulation</description>
+    </item>
+    
+    <item>
+      <title>AirBnb London Data Analysis</title>
+      <link>https://ajaitly11.github.io/arnavjaitly/portfolio/airbnb-data-mining/</link>
+      <pubDate>Thu, 31 Mar 2022 12:49:27 +0600</pubDate>
+      
+      <guid>https://ajaitly11.github.io/arnavjaitly/portfolio/airbnb-data-mining/</guid>
+      <description>The research in this project analyzes trends on data from the popular homestay and lodging website Airbnb for listed properties in London.
+Exploratory data analysis of the raw data reveals some interesting insights into the London lodging market. Most properties listed in London are from Central London, particularly from regions like Westminster, Camden and Tower Hamlets. An analysis of the price per property reveals that Sutton is the cheapest and Kensington is the most expensive place to rent an Airbnb.</description>
+    </item>
+    
+    <item>
+      <title>UK Driving Test Statistical Data Analysis</title>
+      <link>https://ajaitly11.github.io/arnavjaitly/portfolio/driving-test/</link>
+      <pubDate>Fri, 03 Dec 2021 18:07:16 +0600</pubDate>
+      
+      <guid>https://ajaitly11.github.io/arnavjaitly/portfolio/driving-test/</guid>
+      <description>We used Multiple Logistic Regression Analysis over categorical variables like Age, Gender and Location of Testing center to conclude the following:
+XYZ’s expected passing rate at the nearest test centre to his home is 54.4833349 % XYZ’s expected passing rate at the nearest test centre to the LSE is 45.8092649 % Our friend has a better chance of passing the driving test if he gives it in the testing center near his home, i.</description>
+    </item>
+    
+    <item>
+      <title>Gender Profiling with Deep Learning on Twitter Data</title>
+      <link>https://ajaitly11.github.io/arnavjaitly/portfolio/gender/</link>
+      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      
+      <guid>https://ajaitly11.github.io/arnavjaitly/portfolio/gender/</guid>
+      <description>The data was provided by the generous organizers of PAN CLEF 2017 who were kind enough to give us access to the original training and testing dataset along with the truth files used for judging the competition. We acknowledge their immense contribution to our cause without which this project would be impossible.
+The first approach to this problem consisted of using a Deep Averaging Network (DAN) to perform the classification. We developed three alternatives of this model, and investigated both the model performance and the effects of adding more layers to the model.</description>
+    </item>
+    
+  </channel>
+</rss>
