@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Arnav Jaitly</title>
+    <link>https://ajaitly11.github.io/arnavjaitly/categories/</link>
+    <description>Recent content in Categories on Arnav Jaitly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2022 12:49:27 +0600</lastBuildDate><atom:link href="https://ajaitly11.github.io/arnavjaitly/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://ajaitly11.github.io/arnavjaitly/categories/blog/</link>
+      <pubDate>Thu, 07 Jul 2022 12:49:27 +0600</pubDate>
+      
+      <guid>https://ajaitly11.github.io/arnavjaitly/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>https://ajaitly11.github.io/arnavjaitly/categories/documentation/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      
+      <guid>https://ajaitly11.github.io/arnavjaitly/categories/documentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
